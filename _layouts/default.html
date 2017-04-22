@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    <header class="site-header" role="banner">
+        <div class="logo-wrapper"><a class="logo" href="{{ '/' | relative_url }}">El Concilio</a></div>
+
+      <nav>
+        {% for nav in site.nav-bar %}
+          <a class="page-link{% if nav[1] == page.url %} current{% endif %}" href="{{nav[1]}}">{{nav[0]}}</a>
+        {% endfor %}
+      </nav>
+
+      <div class="nav-footer">
+        Alojada en
+        <i class="fa fa-github"></i> <a data-no-sigil href="https://github.com/ConcilioUAM/ConcilioUAM.github.io">Github</a>
+      </div>
+    </header>
+
+    <main class="page-content" aria-label="Content">{{ content }}</main>
+  </body>
+
+</html>

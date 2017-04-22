@@ -1,35 +1,57 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: El Concilio – Asociación Estudiantil
+# NOTA: Este fichero NO se recarga automaticamente cuando se usa `rake serve`
+
+# Variables globales de configuracion
+name: El Concilio
+title: El Concilio
 email: aeelconcilio.asociacion.ciencias@uam.es
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Somos la asociación estudiantil Club de Rol El Concilio,
   de la Universidad Autónoma de Madrid, y si has llegado hasta aquí,
   ¡es porque tienes interés en la asociación!
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "@Concilio_UAM"
-github_username:  Concilio-UAM
+baseurl: "" # subpath
+url: "" # hostname & protocol
+lang: es
 
-# Build settings
+# Configuracion de compilacion
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-coffeescript
 exclude:
+  - README.md
+  - .gitignore
   - Gemfile
   - Gemfile.lock
+  - Rakefile
+
+# Configuracion de las paginas
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "news"
+
+collections:
+  posts:
+    permalink: /noticias/:year/:month/:day/:title/
+
+# Configuracion propia
+nav-bar:
+  Noticias: /noticias/
+  Eventos: /noticias/eventos/
+  Inventario: /juegos/mesa/
+  Encuéntranos: /encuentranos/
+
+scripts:
+  - /assets/js/external-links.js
+  - /assets/js/game-table.js
+
+stylesheets:
+  - /assets/css/main.css
+  - /assets/css/extra.css
+  - //maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
