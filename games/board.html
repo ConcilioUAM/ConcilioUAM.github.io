@@ -1,0 +1,35 @@
+---
+layout: page
+title: Inventario de juegos de mesa
+permalink: /juegos/mesa/
+---
+
+<p>Nuestra colección de juegos de mesa tambien esta disponible en <a href="https://boardgamegeek.com/collection/user/ConcilioUAM?columns=title|thumbnail|version|bggrating|avgrating">BoardGameGeek</a>.</p>
+
+<label>Filtrar por numero de jugadores: <input name="players" type="number" pattern="[0-9]*" inputmode="numeric" min="1" max="50"></label>
+
+<table id="game-table" cellspacing="0" width="100%">
+	<thead>
+		<tr>
+			<th>Nombre</th>
+			<th colspan=2>Jugadores</th>
+			<th>Duración</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for game in site.data.boardgamegeek %}
+			<tr data-minplayers="{{game.minplayers}}" data-maxplayers="{{game.maxplayers}}">
+				<td class="name">{{game.name}}
+				<!--<a data-no-sigil href="https://boardgamegeek.com/boardgame/{{game.objectid}}"></a>-->
+				</td>
+				{% if game.minplayers == game.maxplayers %}
+					<td class="players min max" colspan=2>{{game.maxplayers}}</td>
+				{% else %}
+					<td class="players min">{{game.minplayers}}</td>
+					<td class="players max">{{game.maxplayers}}</td>
+				{% endif %}
+				<td class="playtime">{% if game.minplaytime != game.maxplaytime %}+{% endif %}{{game.minplaytime}}m</td>
+			</tr>
+		{% endfor %}
+	</tbody>
+</table>

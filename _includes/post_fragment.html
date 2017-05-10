@@ -1,0 +1,31 @@
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header>
+    <a href="{{ include.post.url }}"><h1 itemprop="name headline">{{ include.post.title | escape }}</h1></a>
+    <p class="meta">
+    {% if include.post.date %}
+      <span class="date">{{ include.post.date | date_to_long_string }}</span>
+    {% endif %}
+    {% if include.post.author %}
+      <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">{{ include.post.author }}</span>
+      </span>
+    {% endif %}
+    </p>
+  </header>
+
+  <div class="content" itemprop="articleBody">
+    {{ include.post.content }}
+  </div>
+
+  {% if include.show_footer %}
+  <footer>
+    {% if include.post.previous %}
+      <a class="prev-post" href="{{ include.post.previous.url }}">{{ include.post.previous.title }}</a>
+    {% endif %}
+    {% if include.post.next %}
+      <a class="next-post" href="{{ include.post.next    .url }}">{{ include.post.next    .title }}</a>
+    {% endif %}
+  </footer>
+  {% endif %}
+</article>

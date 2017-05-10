@@ -1,0 +1,21 @@
+---
+title: Posts archivados
+layout: page
+permalink: /archivo/
+---
+<table class="post-archive">
+	<tbody>
+		{% for post in site.posts %}
+				<tr>
+					<td class="date">{{post.date | date_to_string }}</td>
+					<td class="author">{{post.author}}</td>
+					<td class="title"><a href="{{post.url | relative_url}}">{{post.title}}</a></td>
+					<td class="tags">
+						{% for tag in post.categories %}
+						<span class="tag-{{tag}}">{{tag | capitalize}}</span>
+						{% endfor %}
+					</td>
+				</tr>
+		{% endfor %}
+	</tbody>
+</ul>

@@ -1,17 +1,15 @@
 ---
-title: "Taller de iniciación a netrunner"
+title: "Taller de iniciación – Android: Netrunner"
 author: "Rodrigo"
-categories: 
-    - eventos
-    - cardgames
+categories: eventos cardgames
 ---
 
-El día 27 de Abril de 2017 a las 17:00 en el local de la asociación
-(patio entre los módulos 4 y 13, facultad de Ciencias, UAM) tendrá lugar un
-taller en el cual se presentará el juego de cartas Netrunner LCG (Living Card Game).
+El próximo día **27 de Abril de 2017** a las **17:00** tendrá lugar un taller de
+presentación del LCG (Living Card Game) [Android: Netrunner].
 Se realizará una explicación del juego y tras eso se permitirá que los participantes
-jueguen con unos mazos propiedad de los monitores.
+jueguen con unos mazos propiedad de los monitores. ¡Os esperamos!
 
 ![Cartel del evento][cartel]
 
-[cartel]: https://raw.githubusercontent.com/ConcilioUAM/ConcilioUAM.github.io/master/documentos/netrunner1.png
+[cartel]: /documents/netrunner1.png
+[android: netrunner]: http://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/

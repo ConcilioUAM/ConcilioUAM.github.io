@@ -1,0 +1,5 @@
+<ul class="post-list">
+{% for post in include.list | limit: 5 %}
+	<li>{% include post_fragment.html post=post %}</li>
+{% endfor %}
+</ul>

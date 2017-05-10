@@ -6,11 +6,11 @@
   <body>
 
     <header class="site-header" role="banner">
-        <div class="logo-wrapper"><a class="logo" href="{{ '/' | relative_url }}">El Concilio</a></div>
+      <a class="logo" href="{{ '/' | relative_url }}">A.E. El Concilio</a>
 
       <nav>
         {% for nav in site.nav-bar %}
-          <a class="page-link{% if nav[1] == page.url %} current{% endif %}" href="{{nav[1]}}">{{nav[0]}}</a>
+          <a {% if nav.url == page.url %}class="current"{% endif %} href="{{nav.url}}">{{nav.text}}</a>
         {% endfor %}
       </nav>
 
@@ -20,7 +20,7 @@
       </div>
     </header>
 
-    <main class="page-content" aria-label="Content">{{ content }}</main>
+    <main>{{ content }}</main>
   </body>
 
 </html>

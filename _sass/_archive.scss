@@ -1,0 +1,27 @@
+
+table.post-archive {
+	width: 100%;
+	td.date {}
+	td.author {
+		&:before { content: "[" }
+		&:after  { content: "]" }
+	}
+	td.title {}
+	td.tags {
+		[class^="tag-"] {
+			border-radius: 3px;
+			padding: 2px 5px;
+			margin-right: 5px;
+		
+			@mixin colorify($color: #ddd) {
+				background-color: $color;
+				border: 1px solid darken($color, 20%);
+			}
+
+			@include colorify();
+			&.tag-web       { @include colorify(hsl(180, 100%, 90%)); }
+			&.tag-cardgames { @include colorify(hsl(0,   100%, 90%)); }
+			&.tag-eventos   { @include colorify(hsl(90,  100%, 90%)); }
+		}
+	}
+}

@@ -31,27 +31,44 @@ exclude:
 defaults:
   -
     scope:
+      path: "" # todos los ficheros del proyecto
+    values:
+      layout: "default"
+  -
+    scope:
       path: "_posts"
       type: "posts"
     values:
-      layout: "news"
+      layout: "post"
 
 collections:
   posts:
-    permalink: /noticias/:year/:month/:day/:title/
+    permalink: /blog/:year/:month/:day/:title/
 
 # Configuracion propia
 nav-bar:
-  Noticias: /noticias/
-  Eventos: /noticias/eventos/
-  Inventario: /juegos/mesa/
-  Encuéntranos: /encuentranos/
+  - 
+    text: Novedades
+    url: /blog/
+  - 
+    text: Índice
+    url: /archivo/
+  - 
+    text: Inventario
+    url: /juegos/mesa/
+  - 
+    text: Calendario
+    url: /calendario/
+  - 
+    text: Sobre nosotros
+    url: /sobrenosotros/
 
 scripts:
-  - /assets/js/external-links.js
-  - /assets/js/game-table.js
+  - /assets/scripts/external-links.js
+  - /assets/scripts/game-table.js
+  - /assets/scripts/easter-egg.js
 
 stylesheets:
-  - /assets/css/main.css
-  - /assets/css/extra.css
+  - /assets/styles/main.css
+  - /assets/styles/extra.css
   - //maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css

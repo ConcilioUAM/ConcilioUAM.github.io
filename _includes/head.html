@@ -6,7 +6,7 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  {% for stylesheet in site.stylesheets %}
+  {% for stylesheet in site.stylesheets | concat: page.stylesheets %}
     <link rel="stylesheet" href="{{ stylesheet }}"></script>
   {% endfor %}
 
@@ -15,10 +15,7 @@
 
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
 
-  {% for script in site.scripts %}
-    <script src="{{ script }}" defer></script>
-  {% endfor %}
-  {% for script in page.scripts %}
+  {% for script in site.scripts | concat: page.scripts %}
     <script src="{{ script }}" defer></script>
   {% endfor %}
 </head>

@@ -1,0 +1,64 @@
+#game-table {
+	border-collapse: collapse;
+
+	.players {
+		&.min     { width:  50px; padding-right: 10px; text-align: right;  }
+		&.max     { width:  50px; padding-left:  10px; text-align: left;   }
+		&.min.max { width: 100px; text-align: center; }
+	}
+
+	.playtime {
+		width: 50px;
+	}
+
+	tr:nth-child(even) {
+		background-color: #eeeeff;
+	}
+
+	th {
+		text-align: left;
+		background-color: #ccc;
+	}
+
+	a:after {
+		content: "\f08e";
+		font-family: FontAwesome;
+		font-weight: normal;
+		font-style: normal;
+		display: inline-block;
+		text-decoration: none; /* inherit */
+		padding-left: 5px;
+		font-size: 0.6em;
+	}
+	td:not(:first-child) {
+		text-align: right;
+	}
+
+	td:first-child {
+		max-width: 40%;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+
+	tbody.searching {
+		tr {
+			transition: opacity 0.1s;
+			opacity: 0.4;
+			// display: none;
+			&.search-result {
+				opacity: 1;
+				// display: table-row;
+			}
+		}
+	}
+}
+
+.players.min + .players.max::before {
+	position: absolute;
+	content: "–";
+	text-align: center;
+	width: 100px;
+	margin-left: -60px;
+	pointer-events: none;
+}
