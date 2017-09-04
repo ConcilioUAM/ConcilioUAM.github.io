@@ -4,6 +4,8 @@ author: Rodrigo
 categories: asambleas
 ---
 
+El próximo jueves 14 a las 18:30 en primera convocatoria y a las 19:30 en segunda convocatoria hay convocada una asamblea general. El orden del día será el siguiente.
+
 El orden del día será el siguiente:
 
 <ol type="I">
