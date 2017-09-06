@@ -1,10 +1,10 @@
 ---
-title: "Asamblea General – Día 14/08/2016"
+title: "Asamblea General – Día 14/09/2016"
 author: Rodrigo
 categories: asambleas
 ---
 
-El próximo jueves 14 a las 18:30 en primera convocatoria y a las 19:30 en segunda convocatoria hay convocada una asamblea general. El orden del día será el siguiente.
+El próximo jueves 14 de septiembre a las 18:30 en primera convocatoria y a las 19:30 en segunda convocatoria hay convocada una asamblea general. El orden del día será el siguiente.
 
 El orden del día será el siguiente:
 
