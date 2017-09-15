@@ -20,3 +20,5 @@ La votación del punto 3 (Elección de una nueva Junta Directiva) se realizará 
 
 Sin otro particular. Atte,
 Rodrigo
+
+EDIT (15 septiembre 2017): Puedes descarga el acta completa aquí: [AsambleaGeneral_2017-09-14.pdf]({{site.url}}/documents/AsambleaGeneral_2017-09-14.pdf)
