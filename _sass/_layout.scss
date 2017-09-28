@@ -15,6 +15,12 @@
 	border-radius: 60px;
 }
 
+@media screen and (max-width: 900px) {
+	body {
+		flex-direction: column;
+	}
+}
+
 body {
 	display: flex;
 	flex-flow: row nowrap;
@@ -24,7 +30,7 @@ body {
 	> header {
 		position: fixed;
 		width: $header-width;
-		height: 100vh;
+		height: 100%;
 
 		padding-top: 1.5em;
 		background-color: $grey-color-light;
@@ -97,8 +103,8 @@ ul.post-list {
 		// box-shadow: 0 3px 5px -4px black;
 		// margin-bottom: 2em;
 
-		//&:not(:last-child):after {
-		&:after {
+		//&:not(:last-child)::after {
+		&::after {
 			display: block;
 			width: 900px;
 			margin: 0 auto;
@@ -165,4 +171,3 @@ input[type=number] {
 	margin-left: 1em;
 	margin-right: 1em;
 }
-
