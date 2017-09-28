@@ -1,7 +1,7 @@
 ---
 - objectid: '590'
   name: 1000 Kilómetros
-  thumbnail: "//cf.geekdo-images.com/images/pic154433_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic154433_t.jpg
   minplayers: '2'
   maxplayers: '6'
   minplaytime: '45'
@@ -9,7 +9,7 @@
   playingtime: '45'
 - objectid: '31260'
   name: Agricola
-  thumbnail: "//cf.geekdo-images.com/images/pic259085_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic259085_t.jpg
   minplayers: '1'
   maxplayers: '5'
   minplaytime: '30'
@@ -17,7 +17,7 @@
   playingtime: '150'
 - objectid: '73833'
   name: Agricola Tuning
-  thumbnail: "//cf.geekdo-images.com/images/pic828271_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic828271_t.jpg
   minplayers: '1'
   maxplayers: '5'
   minplaytime: '120'
@@ -25,7 +25,7 @@
   playingtime: '120'
 - objectid: '43018'
   name: 'Agricola: Bosques y Cenagales'
-  thumbnail: "//cf.geekdo-images.com/images/pic629494_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic629494_t.jpg
   minplayers: '1'
   maxplayers: '5'
   minplaytime: '100'
@@ -33,15 +33,23 @@
   playingtime: '200'
 - objectid: '9687'
   name: 'Alhambra: The Vizier''s Favor'
-  thumbnail: "//cf.geekdo-images.com/images/pic105723_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic105723_t.jpg
   minplayers: '2'
   maxplayers: '6'
   minplaytime: '45'
   maxplaytime: '60'
   playingtime: '60'
+- objectid: '124742'
+  name: 'Android: Netrunner'
+  thumbnail: https://cf.geekdo-images.com/images/pic1606356_t.jpg
+  minplayers: '2'
+  maxplayers: '2'
+  minplaytime: '45'
+  maxplaytime: '45'
+  playingtime: '45'
 - objectid: '10093'
   name: Axis & Allies
-  thumbnail: "//cf.geekdo-images.com/images/pic42246_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic42246_t.jpg
   minplayers: '2'
   maxplayers: '5'
   minplaytime: '240'
@@ -49,7 +57,7 @@
   playingtime: '240'
 - objectid: '2397'
   name: Backgammon
-  thumbnail: "//cf.geekdo-images.com/images/pic55221_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic55221_t.jpg
   minplayers: '2'
   maxplayers: '2'
   minplaytime: '30'
@@ -57,7 +65,7 @@
   playingtime: '30'
 - objectid: '30933'
   name: BANG! La Bala!
-  thumbnail: "//cf.geekdo-images.com/images/pic1123712_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic1123712_t.jpg
   minplayers: '3'
   maxplayers: '8'
   minplaytime: '20'
@@ -65,7 +73,7 @@
   playingtime: '40'
 - objectid: '700'
   name: Battle Masters
-  thumbnail: "//cf.geekdo-images.com/images/pic1321816_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic1321816_t.jpg
   minplayers: '2'
   maxplayers: '2'
   minplaytime: '60'
@@ -73,7 +81,7 @@
   playingtime: '60'
 - objectid: '7470'
   name: Battlespace
-  thumbnail: "//cf.geekdo-images.com/images/pic30344_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic30344_t.jpg
   minplayers: '2'
   maxplayers: '6'
   minplaytime: '360'
@@ -81,7 +89,7 @@
   playingtime: '360'
 - objectid: '1540'
   name: BattleTech
-  thumbnail: "//cf.geekdo-images.com/images/pic34098_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic34098_t.jpg
   minplayers: '2'
   maxplayers: '20'
   minplaytime: '90'
@@ -89,7 +97,7 @@
   playingtime: '90'
 - objectid: '6923'
   name: 'BattleTech: CityTech'
-  thumbnail: "//cf.geekdo-images.com/images/pic60346_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic60346_t.jpg
   minplayers: '2'
   maxplayers: '6'
   minplaytime: '90'
@@ -97,7 +105,7 @@
   playingtime: '90'
 - objectid: '18803'
   name: Black Stories
-  thumbnail: "//cf.geekdo-images.com/images/pic208686_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic208686_t.jpg
   minplayers: '2'
   maxplayers: '15'
   minplaytime: '20'
@@ -105,7 +113,7 @@
   playingtime: '20'
 - objectid: '10223'
   name: 'Blood Bowl (first edition): Death Zone'
-  thumbnail: "//cf.geekdo-images.com/images/pic308979_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic308979_t.jpg
   minplayers: '2'
   maxplayers: '2'
   minplaytime: '120'
@@ -113,7 +121,7 @@
   playingtime: '120'
 - objectid: '712'
   name: Blood Bowl (Third Edition)
-  thumbnail: "//cf.geekdo-images.com/images/pic1427839_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic1427839_t.jpg
   minplayers: '2'
   maxplayers: '2'
   minplaytime: '180'
@@ -121,7 +129,7 @@
   playingtime: '180'
 - objectid: '10293'
   name: En Busca Del Imperio Cobra
-  thumbnail: "//cf.geekdo-images.com/images/pic1321586_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic1321586_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '30'
@@ -129,7 +137,7 @@
   playingtime: '30'
 - objectid: '19237'
   name: Ca$h 'n Gun$
-  thumbnail: "//cf.geekdo-images.com/images/pic87523_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic87523_t.jpg
   minplayers: '4'
   maxplayers: '6'
   minplaytime: '30'
@@ -137,7 +145,7 @@
   playingtime: '30'
 - objectid: '30909'
   name: 'Ca$h ''n Gun$: Yakuzas'
-  thumbnail: "//cf.geekdo-images.com/images/pic230802_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic230802_t.jpg
   minplayers: '6'
   maxplayers: '9'
   minplaytime: '45'
@@ -145,7 +153,7 @@
   playingtime: '45'
 - objectid: '43111'
   name: Caos en el Viejo Mundo
-  thumbnail: "//cf.geekdo-images.com/images/pic819278_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic819278_t.jpg
   minplayers: '3'
   maxplayers: '4'
   minplaytime: '60'
@@ -153,7 +161,7 @@
   playingtime: '120'
 - objectid: '11037'
   name: El Capitán Alatriste
-  thumbnail: "//cf.geekdo-images.com/images/pic227367_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic227367_t.jpg
   minplayers: '2'
   maxplayers: '6'
   minplaytime: '90'
@@ -161,7 +169,7 @@
   playingtime: '90'
 - objectid: '164127'
   name: Carcassonne - Plus 2014
-  thumbnail: "//cf.geekdo-images.com/images/pic2544740_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic2544740_t.jpg
   minplayers: '2'
   maxplayers: '8'
   minplaytime: '45'
@@ -169,7 +177,7 @@
   playingtime: '45'
 - objectid: '13'
   name: Catan
-  thumbnail: "//cf.geekdo-images.com/images/pic2419375_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic2419375_t.jpg
   minplayers: '3'
   maxplayers: '4'
   minplaytime: '60'
@@ -177,47 +185,23 @@
   playingtime: '120'
 - objectid: '2807'
   name: 'Catan: 5-6 Player Extension'
-  thumbnail: "//cf.geekdo-images.com/images/pic2420287_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic2420287_t.jpg
   minplayers: '5'
   maxplayers: '6'
   minplaytime: '120'
   maxplaytime: '120'
   playingtime: '120'
-- objectid: '926'
-  name: 'Catan: Cities & Knights'
-  thumbnail: "//cf.geekdo-images.com/images/pic2420315_t.jpg"
-  minplayers: '3'
-  maxplayers: '4'
-  minplaytime: '90'
-  maxplaytime: '90'
-  playingtime: '90'
-- objectid: '325'
-  name: 'Catan: Seafarers'
-  thumbnail: "//cf.geekdo-images.com/images/pic2420293_t.jpg"
-  minplayers: '3'
-  maxplayers: '4'
-  minplaytime: '90'
-  maxplaytime: '90'
-  playingtime: '90'
 - objectid: '4103'
   name: 'Catan: Seafarers – 5-6 Player Extension'
-  thumbnail: "//cf.geekdo-images.com/images/pic2420305_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic2420305_t.jpg
   minplayers: '5'
   maxplayers: '6'
   minplaytime: '120'
   maxplaytime: '120'
   playingtime: '120'
-- objectid: '27760'
-  name: 'Catan: Traders & Barbarians'
-  thumbnail: "//cf.geekdo-images.com/images/pic2420317_t.jpg"
-  minplayers: '2'
-  maxplayers: '4'
-  minplaytime: '60'
-  maxplaytime: '60'
-  playingtime: '60'
 - objectid: '18602'
   name: Caylus
-  thumbnail: "//cf.geekdo-images.com/images/pic1456226_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic1456226_t.jpg
   minplayers: '2'
   maxplayers: '5'
   minplaytime: '60'
@@ -225,15 +209,55 @@
   playingtime: '150'
 - objectid: '171'
   name: Chess
-  thumbnail: "//cf.geekdo-images.com/images/pic260745_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic260745_t.jpg
   minplayers: '2'
   maxplayers: '2'
   minplaytime: '60'
   maxplaytime: '60'
   playingtime: '60'
+- objectid: '926'
+  name: 'Los Colonos de Catán: Ciudades y Caballeros'
+  thumbnail: https://cf.geekdo-images.com/images/pic424448_t.jpg
+  minplayers: '3'
+  maxplayers: '4'
+  minplaytime: '90'
+  maxplaytime: '90'
+  playingtime: '90'
+- objectid: '27760'
+  name: 'Los Colonos de Catan: Mercaderes y Bárbaros'
+  thumbnail: https://cf.geekdo-images.com/images/pic382361_t.jpg
+  minplayers: '2'
+  maxplayers: '4'
+  minplaytime: '60'
+  maxplaytime: '60'
+  playingtime: '60'
+- objectid: '148931'
+  name: 'Coup: Reforma'
+  thumbnail: https://cf.geekdo-images.com/images/pic2864782_t.jpg
+  minplayers: '2'
+  maxplayers: '10'
+  minplaytime: '15'
+  maxplaytime: '15'
+  playingtime: '15'
+- objectid: '39856'
+  name: Dixit
+  thumbnail: https://cf.geekdo-images.com/images/pic3483909_t.jpg
+  minplayers: '3'
+  maxplayers: '6'
+  minplaytime: '30'
+  maxplaytime: '30'
+  playingtime: '30'
+- objectid: '63268'
+  name: Dobble
+  thumbnail: https://cf.geekdo-images.com/images/pic1641943_t.png
+  minplayers: '2'
+  maxplayers: '8'
+  minplaytime: '15'
+  maxplaytime: '15'
+  playingtime: '15'
 - objectid: '36218'
   name: Dominion
-  thumbnail: "//cf.geekdo-images.com/images/pic394356_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic394356_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '30'
@@ -241,7 +265,7 @@
   playingtime: '30'
 - objectid: '66690'
   name: 'Dominion: Prosperidad'
-  thumbnail: "//cf.geekdo-images.com/images/pic844808_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic844808_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '30'
@@ -249,7 +273,7 @@
   playingtime: '30'
 - objectid: '2394'
   name: Dominoes
-  thumbnail: "//cf.geekdo-images.com/images/pic90585_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic90585_t.jpg
   minplayers: '2'
   maxplayers: '10'
   minplaytime: '30'
@@ -257,7 +281,7 @@
   playingtime: '30'
 - objectid: '28084'
   name: 'Dracos: El Señor del Laberinto'
-  thumbnail: "//cf.geekdo-images.com/images/pic199927_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic199927_t.jpg
   minplayers: '2'
   maxplayers: '5'
   minplaytime: '60'
@@ -265,7 +289,7 @@
   playingtime: '60'
 - objectid: '27848'
   name: La Era de Conan
-  thumbnail: "//cf.geekdo-images.com/images/pic694789_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic694789_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '90'
@@ -273,7 +297,7 @@
   playingtime: '90'
 - objectid: '173'
   name: Formula Dé
-  thumbnail: "//cf.geekdo-images.com/images/pic168167_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic168167_t.jpg
   minplayers: '2'
   maxplayers: '10'
   minplaytime: '120'
@@ -281,7 +305,7 @@
   playingtime: '120'
 - objectid: '31481'
   name: Galaxy Trucker
-  thumbnail: "//cf.geekdo-images.com/images/pic260554_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic289193_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '60'
@@ -289,7 +313,7 @@
   playingtime: '60'
 - objectid: '6472'
   name: A Game of Thrones (first edition)
-  thumbnail: "//cf.geekdo-images.com/images/pic1222116_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic1222116_t.jpg
   minplayers: '3'
   maxplayers: '5'
   minplaytime: '180'
@@ -297,7 +321,7 @@
   playingtime: '180'
 - objectid: '10873'
   name: 'A Game of Thrones: A Clash of Kings Expansion'
-  thumbnail: "//cf.geekdo-images.com/images/pic49783_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic49783_t.jpg
   minplayers: '3'
   maxplayers: '6'
   minplaytime: '120'
@@ -305,7 +329,7 @@
   playingtime: '120'
 - objectid: '39953'
   name: 'A Game of Thrones: The Card Game'
-  thumbnail: "//cf.geekdo-images.com/images/pic1195948_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic1195948_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '60'
@@ -313,7 +337,7 @@
   playingtime: '60'
 - objectid: '41811'
   name: 'A Game of Thrones: The Card Game – Kings of the Sea'
-  thumbnail: "//cf.geekdo-images.com/images/pic605784_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic605784_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '60'
@@ -321,23 +345,39 @@
   playingtime: '60'
 - objectid: '188'
   name: Go
-  thumbnail: "//cf.geekdo-images.com/images/pic1728832_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic1728832_t.jpg
   minplayers: '2'
   maxplayers: '2'
-  minplaytime: '90'
-  maxplaytime: '90'
-  playingtime: '90'
+  minplaytime: '30'
+  maxplaytime: '180'
+  playingtime: '180'
 - objectid: '4914'
   name: 'Great War at Sea: 1898, The Spanish American War'
-  thumbnail: "//cf.geekdo-images.com/images/pic16448_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic16448_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '30'
   maxplaytime: '30'
   playingtime: '30'
+- objectid: '98778'
+  name: Hanabi
+  thumbnail: https://cf.geekdo-images.com/images/pic1040215_t.jpg
+  minplayers: '2'
+  maxplayers: '5'
+  minplaytime: '25'
+  maxplaytime: '25'
+  playingtime: '25'
+- objectid: '191894'
+  name: Imagine
+  thumbnail: https://cf.geekdo-images.com/images/pic3061260_t.jpg
+  minplayers: '3'
+  maxplayers: '8'
+  minplaytime: '15'
+  maxplaytime: '30'
+  playingtime: '30'
 - objectid: '2452'
   name: Jenga
-  thumbnail: "//cf.geekdo-images.com/images/pic275096_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic275096_t.jpg
   minplayers: '1'
   maxplayers: '8'
   minplaytime: '20'
@@ -345,23 +385,36 @@
   playingtime: '20'
 - objectid: '23585'
   name: El juego de Makinavaja
-  thumbnail: "//cf.geekdo-images.com/images/pic126398_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic126398_t.jpg
   minplayers: '3'
   maxplayers: '6'
-  minplaytime: '30'
-  maxplaytime: '60'
-  playingtime: '60'
 - objectid: '8098'
   name: Jungle Speed
-  thumbnail: "//cf.geekdo-images.com/images/pic736534_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic736534_t.jpg
   minplayers: '2'
   maxplayers: '8'
   minplaytime: '10'
   maxplaytime: '10'
   playingtime: '10'
+- objectid: '10680'
+  name: 'Jungle Speed: The Extreme Expansion'
+  thumbnail: https://cf.geekdo-images.com/images/pic871500_t.jpg
+  minplayers: '2'
+  maxplayers: '15'
+  minplaytime: '15'
+  maxplaytime: '15'
+  playingtime: '15'
+- objectid: '203719'
+  name: Krosmaster Arena 2.0
+  thumbnail: https://cf.geekdo-images.com/images/pic3090972_t.jpg
+  minplayers: '2'
+  maxplayers: '4'
+  minplaytime: '45'
+  maxplaytime: '60'
+  playingtime: '60'
 - objectid: '155827'
   name: 'Krosmaster: Quest'
-  thumbnail: "//cf.geekdo-images.com/images/pic3090439_t.png"
+  thumbnail: https://cf.geekdo-images.com/images/pic2635767_t.jpg
   minplayers: '2'
   maxplayers: '6'
   minplaytime: '120'
@@ -369,15 +422,23 @@
   playingtime: '180'
 - objectid: '23985'
   name: Midgard
-  thumbnail: "//cf.geekdo-images.com/images/pic144601_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic144601_t.jpg
   minplayers: '3'
   maxplayers: '5'
   minplaytime: '60'
   maxplaytime: '60'
   playingtime: '60'
+- objectid: '915'
+  name: El Misterio de la Abadía
+  thumbnail: https://cf.geekdo-images.com/images/pic192243_t.jpg
+  minplayers: '3'
+  maxplayers: '6'
+  minplaytime: '120'
+  maxplaytime: '120'
+  playingtime: '120'
 - objectid: '1406'
   name: Monopoly
-  thumbnail: "//cf.geekdo-images.com/images/pic2748156_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic2748156_t.jpg
   minplayers: '2'
   maxplayers: '8'
   minplaytime: '60'
@@ -385,7 +446,7 @@
   playingtime: '180'
 - objectid: '1927'
   name: Munchkin
-  thumbnail: "//cf.geekdo-images.com/images/pic2544758_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic2544758_t.jpg
   minplayers: '3'
   maxplayers: '6'
   minplaytime: '60'
@@ -393,7 +454,7 @@
   playingtime: '120'
 - objectid: '20660'
   name: 'Munchkin 4: ¡Qué locura de montura!'
-  thumbnail: "//cf.geekdo-images.com/images/pic1041090_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic1041090_t.jpg
   minplayers: '3'
   maxplayers: '6'
   minplaytime: '90'
@@ -401,7 +462,7 @@
   playingtime: '90'
 - objectid: '33493'
   name: 'Munchkin 6: Mazmorras Majaretas'
-  thumbnail: "//cf.geekdo-images.com/images/pic503331_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic503331_t.jpg
   minplayers: '3'
   maxplayers: '6'
   minplaytime: '90'
@@ -409,15 +470,31 @@
   playingtime: '90'
 - objectid: '25071'
   name: Munchkin Cthulhu
-  thumbnail: "//cf.geekdo-images.com/images/pic383542_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic383542_t.jpg
   minplayers: '3'
   maxplayers: '6'
   minplaytime: '90'
   maxplaytime: '90'
   playingtime: '90'
+- objectid: '22254'
+  name: Narnia Risk Junior
+  thumbnail: https://cf.geekdo-images.com/images/pic119282_t.jpg
+  minplayers: '2'
+  maxplayers: '4'
+  minplaytime: '90'
+  maxplaytime: '90'
+  playingtime: '90'
+- objectid: '325'
+  name: Los Navegantes de Catán
+  thumbnail: https://cf.geekdo-images.com/images/pic154559_t.jpg
+  minplayers: '3'
+  maxplayers: '4'
+  minplaytime: '90'
+  maxplaytime: '90'
+  playingtime: '90'
 - objectid: '88408'
   name: Nightfall
-  thumbnail: "//cf.geekdo-images.com/images/pic873009_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic873009_t.jpg
   minplayers: '2'
   maxplayers: '5'
   minplaytime: '45'
@@ -425,7 +502,7 @@
   playingtime: '45'
 - objectid: '24480'
   name: Los Pilares de la Tierra
-  thumbnail: "//cf.geekdo-images.com/images/pic292094_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic292094_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '90'
@@ -433,7 +510,7 @@
   playingtime: '120'
 - objectid: '1419'
   name: Pylos
-  thumbnail: "//cf.geekdo-images.com/images/pic3488228_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic3488228_t.jpg
   minplayers: '2'
   maxplayers: '2'
   minplaytime: '10'
@@ -441,7 +518,7 @@
   playingtime: '10'
 - objectid: '681'
   name: Quarto
-  thumbnail: "//cf.geekdo-images.com/images/pic3488229_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic669979_t.jpg
   minplayers: '2'
   maxplayers: '2'
   minplaytime: '20'
@@ -449,31 +526,47 @@
   playingtime: '20'
 - objectid: '3190'
   name: Quixo
-  thumbnail: "//cf.geekdo-images.com/images/pic3488230_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic3488230_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '15'
   maxplaytime: '15'
   playingtime: '15'
-- objectid: '181'
-  name: Risk
-  thumbnail: "//cf.geekdo-images.com/images/pic2920766_t.jpg"
-  minplayers: '2'
-  maxplayers: '6'
-  minplaytime: '120'
-  maxplaytime: '120'
-  playingtime: '120'
 - objectid: '18'
   name: RoboRally
-  thumbnail: "//cf.geekdo-images.com/images/pic1000553_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic1000553_t.jpg
   minplayers: '2'
-  maxplayers: '6'
+  maxplayers: '8'
   minplaytime: '45'
   maxplaytime: '120'
   playingtime: '120'
+- objectid: '20545'
+  name: Rory's Story Cubes
+  thumbnail: https://cf.geekdo-images.com/images/pic646111_t.jpg
+  minplayers: '1'
+  maxplayers: '12'
+  minplaytime: '20'
+  maxplaytime: '20'
+  playingtime: '20'
+- objectid: '143147'
+  name: Saboteur Deluxe
+  thumbnail: https://cf.geekdo-images.com/images/pic1959382_t.jpg
+  minplayers: '2'
+  maxplayers: '12'
+  minplaytime: '30'
+  maxplaytime: '30'
+  playingtime: '30'
+- objectid: '169786'
+  name: Scythe
+  thumbnail: https://cf.geekdo-images.com/images/pic3163924_t.jpg
+  minplayers: '1'
+  maxplayers: '5'
+  minplaytime: '90'
+  maxplaytime: '115'
+  playingtime: '115'
 - objectid: '20551'
   name: Shogun
-  thumbnail: "//cf.geekdo-images.com/images/pic145843_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic145843_t.jpg
   minplayers: '3'
   maxplayers: '5'
   minplaytime: '150'
@@ -481,15 +574,23 @@
   playingtime: '150'
 - objectid: '1566'
   name: Simply Cosmic
-  thumbnail: "//cf.geekdo-images.com/images/pic291138_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic291138_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '45'
   maxplaytime: '45'
   playingtime: '45'
+- objectid: '40692'
+  name: Small World
+  thumbnail: https://cf.geekdo-images.com/images/pic514751_t.jpg
+  minplayers: '2'
+  maxplayers: '5'
+  minplaytime: '40'
+  maxplaytime: '80'
+  playingtime: '80'
 - objectid: '22827'
   name: 'Starcraft: El Juego de Mesa'
-  thumbnail: "//cf.geekdo-images.com/images/pic339635_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic339635_t.jpg
   minplayers: '2'
   maxplayers: '6'
   minplaytime: '180'
@@ -497,15 +598,23 @@
   playingtime: '240'
 - objectid: '1917'
   name: Stratego
-  thumbnail: "//cf.geekdo-images.com/images/pic25644_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic25644_t.jpg
   minplayers: '2'
   maxplayers: '2'
   minplaytime: '45'
   maxplaytime: '45'
   playingtime: '45'
+- objectid: '192291'
+  name: Sushi Go Party!
+  thumbnail: https://cf.geekdo-images.com/images/pic3177979_t.jpg
+  minplayers: '2'
+  maxplayers: '8'
+  minplaytime: '20'
+  maxplaytime: '20'
+  playingtime: '20'
 - objectid: '35761'
   name: Sylla
-  thumbnail: "//cf.geekdo-images.com/images/pic324935_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic324935_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '60'
@@ -513,23 +622,39 @@
   playingtime: '90'
 - objectid: '9209'
   name: Ticket to Ride
-  thumbnail: "//cf.geekdo-images.com/images/pic38668_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic38668_t.jpg
   minplayers: '2'
   maxplayers: '5'
   minplaytime: '30'
   maxplaytime: '60'
   playingtime: '60'
+- objectid: '42'
+  name: Tigris & Euphrates
+  thumbnail: https://cf.geekdo-images.com/images/pic2338267_t.jpg
+  minplayers: '2'
+  maxplayers: '4'
+  minplaytime: '90'
+  maxplaytime: '90'
+  playingtime: '90'
 - objectid: '41052'
   name: Tokyo Train
-  thumbnail: "//cf.geekdo-images.com/images/pic530250_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic530250_t.jpg
   minplayers: '4'
   maxplayers: '8'
   minplaytime: '15'
   maxplaytime: '15'
   playingtime: '15'
+- objectid: '2001'
+  name: 'Trivial Pursuit: Family Edition'
+  thumbnail: https://cf.geekdo-images.com/images/pic1712206_t.jpg
+  minplayers: '2'
+  maxplayers: '36'
+  minplaytime: '90'
+  maxplaytime: '90'
+  playingtime: '90'
 - objectid: '37351'
   name: 'Trivial Pursuit: Genus Edición III (Spain)'
-  thumbnail: "//cf.geekdo-images.com/images/pic350937_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic350937_t.jpg
   minplayers: '2'
   maxplayers: '6'
   minplaytime: '60'
@@ -537,31 +662,23 @@
   playingtime: '60'
 - objectid: '12333'
   name: Twilight Struggle
-  thumbnail: "//cf.geekdo-images.com/images/pic361592_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic361592_t.jpg
   minplayers: '2'
   maxplayers: '2'
-  minplaytime: '180'
+  minplaytime: '120'
   maxplaytime: '180'
   playingtime: '180'
 - objectid: '38038'
   name: UNO Flash
-  thumbnail: "//cf.geekdo-images.com/images/pic395043_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic395043_t.jpg
   minplayers: '3'
   maxplayers: '6'
   minplaytime: '10'
   maxplaytime: '10'
   playingtime: '10'
-- objectid: '34117'
-  name: Winds of War
-  thumbnail: "//cf.geekdo-images.com/images/pic1028563_t.png"
-  minplayers: '1'
-  maxplayers: '2'
-  minplaytime: '90'
-  maxplaytime: '90'
-  playingtime: '90'
 - objectid: '15953'
   name: 'Wings of War: Burning Drachens'
-  thumbnail: "//cf.geekdo-images.com/images/pic85901_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic85901_t.jpg
   minplayers: '1'
   maxplayers: '2'
   minplaytime: '45'
@@ -569,15 +686,23 @@
   playingtime: '45'
 - objectid: '9203'
   name: 'Wings of War: Famous Aces'
-  thumbnail: "//cf.geekdo-images.com/images/pic38996_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic38996_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '30'
   maxplaytime: '30'
   playingtime: '30'
+- objectid: '94608'
+  name: 'Wings of War: Rain of Destruction'
+  thumbnail: https://cf.geekdo-images.com/images/pic942851_t.jpg
+  minplayers: '2'
+  maxplayers: '4'
+  minplaytime: '45'
+  maxplaytime: '45'
+  playingtime: '45'
 - objectid: '9910'
   name: 'Wings of War: Watch Your Back!'
-  thumbnail: "//cf.geekdo-images.com/images/pic41244_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic41244_t.jpg
   minplayers: '2'
   maxplayers: '4'
   minplaytime: '30'
@@ -585,9 +710,17 @@
   playingtime: '30'
 - objectid: '40674'
   name: 'Zombies!!! 8: Jailbreak'
-  thumbnail: "//cf.geekdo-images.com/images/pic426906_t.jpg"
+  thumbnail: https://cf.geekdo-images.com/images/pic426906_t.jpg
   minplayers: '2'
   maxplayers: '6'
   minplaytime: '60'
   maxplaytime: '120'
   playingtime: '120'
+- objectid: '18723'
+  name: "¡Sí, Señor Oscuro!"
+  thumbnail: https://cf.geekdo-images.com/images/pic1684668_t.jpg
+  minplayers: '4'
+  maxplayers: '16'
+  minplaytime: '30'
+  maxplaytime: '30'
+  playingtime: '30'
