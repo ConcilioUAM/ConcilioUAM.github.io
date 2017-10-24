@@ -14,8 +14,8 @@ Solo por asistir y jugar una pelea Fireside, se añadirá a vuestra colección l
 ## Arena doble clase
 Cabe recordar, que durante el evento de Halloween los héroes se disfrazan, y la arena cambia. Del 24 de octubre al 5 de noviembre podrás elegir dos clases y las cartas a elegir para tu arena podrán ser de ambas clases. Terroríficas combinaciones con las que celebrar Halloween te esperan.
 
-![Banner Halloween en El Concilio]({{site.url}}/documents/bannerHalloween.png)
+![Banner Halloween en El Concilio]({{site.url}}/documents/bannerHalloween.jpg)
 
 
-[dorso]: https://playhearthstone.com/en-gb/blog/13665271
+[dorso]: https://playhearthstone.com/es-es/blog/13665271
 [nemsy]: https://playhearthstone.com/es-es/blog/21098854/nemsy-necrochispa-ya-está-disponible-17-10-17
