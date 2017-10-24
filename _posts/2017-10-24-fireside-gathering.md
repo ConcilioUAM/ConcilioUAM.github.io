@@ -4,7 +4,7 @@ author: Todos
 categories: eventos
 ---
 
-¡El Concilio inagura su Taberna!
+¡El Concilio inaugura su Taberna!
 
 Este lunes 30 de octubre reúnete con viejos y nuevos amigos para jugar a Hearthstone en El Concilio. De 17:00 a 20:00 estaremos en el local disfrutando del modo 3v3 exclusivo de este mes jugando entre nosotros.  ¡Que corra la voz! Participando se añadirá a tu colección el [dorso de carta especial][dorso] del Fireside Gathering.
 
