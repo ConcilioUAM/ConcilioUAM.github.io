@@ -6,8 +6,8 @@ categories: eventos
 
 ![Banner Halloween en El Concilio]({{site.url}}/documents/bannerHalloween.jpg)
 <center>
-[https://eu.battle.net/hearthstone/es/fireside-gatherings/3200592](https://eu.battle.net/hearthstone/es/fireside-
-gatherings/3200592)
+  <a href="https://eu.battle.net/hearthstone/es/fireside-gatherings/3200592">https://eu.battle.net/hearthstone/es/fireside-
+gatherings/3200592</a>
 </center>
 
 ¡El Concilio inaugura su Taberna!
