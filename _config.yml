@@ -60,6 +60,9 @@ nav-bar:
     text: Calendario
     url: /calendario/
   - 
+    text: FAQ
+    url: /faq/
+  - 
     text: Sobre nosotros
     url: /sobrenosotros/
 
