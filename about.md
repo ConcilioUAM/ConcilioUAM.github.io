@@ -21,7 +21,6 @@ Puedes asegurarte poniendote en contacto con nosotros.
 
 <ul class="fa-ul">
 <li><i class="fa-li fa fa-envelope"></i>Correo <a data-no-sigil href="mailto:aeelconcilio.asociacion.ciencias@uam.es">aeelconcilio.asociacion.ciencias@uam.es</a></li>
-<li><i class="fa-li fa fa-telegram"></i>Telegram <a data-no-sigil href="https://t.me/aeelconcilio">https://t.me/aeelconcilio</a> y <a data-no-sigil href="#">@aeelconcilioDiscusion</a></li>
 <li><i class="fa-li fa fa-twitter"></i>Twitter <a data-no-sigil href="https://twitter.com/Concilio_UAM">https://twitter.com/Concilio_UAM</a></li>
 <li><i class="fa-li fa fa-github"></i>GitHub <a data-no-sigil href="https://github.com/Concilio_UAM">https://github.com/Concilio_UAM</a></li>
 </ul>
